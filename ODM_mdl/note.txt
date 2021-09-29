@@ -1,0 +1,1 @@
+The yolov3.weights files is too big (greater than 25MB) to be uploaded to github. So, if you want to siccessfully run this project, you need the model weights. Please email us a request via afitwi1@binghamton.edu or ahfitwi@gmail.com. We will send a response as soon as possible witht he model weoghts attached!  
