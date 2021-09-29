@@ -1,0 +1,486 @@
+{
+    "frame": [
+        {
+            "Violations": "Integer"
+        },
+        {
+            "Density": "Float"
+        },
+        {
+            "Timestamp": "Float"
+        }
+    ],
+    "frame1": [
+        {
+            "Violations": 0
+        },
+        {
+            "Density": 0.23
+        },
+        {
+            "Timestamp": 1622508820.2015746
+        }
+    ],
+    "frame2": [
+        {
+            "Violations": 0
+        },
+        {
+            "Density": 0.31
+        },
+        {
+            "Timestamp": 1622508821.4254112
+        }
+    ],
+    "frame3": [
+        {
+            "Violations": 0
+        },
+        {
+            "Density": 0.32
+        },
+        {
+            "Timestamp": 1622508822.5037153
+        }
+    ],
+    "frame4": [
+        {
+            "Violations": 0
+        },
+        {
+            "Density": 0.25
+        },
+        {
+            "Timestamp": 1622508824.0459292
+        }
+    ],
+    "frame5": [
+        {
+            "Violations": 0
+        },
+        {
+            "Density": 0.26
+        },
+        {
+            "Timestamp": 1622508825.3046832
+        }
+    ],
+    "frame6": [
+        {
+            "Violations": 2
+        },
+        {
+            "Density": 0.37
+        },
+        {
+            "Timestamp": 1622508826.6754253
+        }
+    ],
+    "frame7": [
+        {
+            "Violations": 0
+        },
+        {
+            "Density": 0.34
+        },
+        {
+            "Timestamp": 1622508827.7601972
+        }
+    ],
+    "frame8": [
+        {
+            "Violations": 0
+        },
+        {
+            "Density": 0.29
+        },
+        {
+            "Timestamp": 1622508828.802314
+        }
+    ],
+    "frame9": [
+        {
+            "Violations": 0
+        },
+        {
+            "Density": 0.28
+        },
+        {
+            "Timestamp": 1622508829.9894383
+        }
+    ],
+    "frame10": [
+        {
+            "Violations": 2
+        },
+        {
+            "Density": 0.39
+        },
+        {
+            "Timestamp": 1622508831.0628152
+        }
+    ],
+    "frame11": [
+        {
+            "Violations": 2
+        },
+        {
+            "Density": 0.18
+        },
+        {
+            "Timestamp": 1622508832.2802312
+        }
+    ],
+    "frame12": [
+        {
+            "Violations": 2
+        },
+        {
+            "Density": 0.16
+        },
+        {
+            "Timestamp": 1622508833.4260628
+        }
+    ],
+    "frame13": [
+        {
+            "Violations": 2
+        },
+        {
+            "Density": 0.19
+        },
+        {
+            "Timestamp": 1622508834.589112
+        }
+    ],
+    "frame14": [
+        {
+            "Violations": 3
+        },
+        {
+            "Density": 0.26
+        },
+        {
+            "Timestamp": 1622508835.69916
+        }
+    ],
+    "frame15": [
+        {
+            "Violations": 3
+        },
+        {
+            "Density": 0.23
+        },
+        {
+            "Timestamp": 1622508836.9279273
+        }
+    ],
+    "frame16": [
+        {
+            "Violations": 3
+        },
+        {
+            "Density": 0.27
+        },
+        {
+            "Timestamp": 1622508838.020806
+        }
+    ],
+    "frame17": [
+        {
+            "Violations": 5
+        },
+        {
+            "Density": 0.28
+        },
+        {
+            "Timestamp": 1622508839.0648844
+        }
+    ],
+    "frame18": [
+        {
+            "Violations": 5
+        },
+        {
+            "Density": 0.31
+        },
+        {
+            "Timestamp": 1622508840.189132
+        }
+    ],
+    "frame19": [
+        {
+            "Violations": 5
+        },
+        {
+            "Density": 0.28
+        },
+        {
+            "Timestamp": 1622508841.4056323
+        }
+    ],
+    "frame20": [
+        {
+            "Violations": 5
+        },
+        {
+            "Density": 0.26
+        },
+        {
+            "Timestamp": 1622508842.5056322
+        }
+    ],
+    "frame21": [
+        {
+            "Violations": 4
+        },
+        {
+            "Density": 0.34
+        },
+        {
+            "Timestamp": 1622508843.5465124
+        }
+    ],
+    "frame22": [
+        {
+            "Violations": 4
+        },
+        {
+            "Density": 0.35
+        },
+        {
+            "Timestamp": 1622508844.5930877
+        }
+    ],
+    "frame23": [
+        {
+            "Violations": 4
+        },
+        {
+            "Density": 0.35
+        },
+        {
+            "Timestamp": 1622508845.6916819
+        }
+    ],
+    "frame24": [
+        {
+            "Violations": 6
+        },
+        {
+            "Density": 0.49
+        },
+        {
+            "Timestamp": 1622508846.7398992
+        }
+    ],
+    "frame25": [
+        {
+            "Violations": 5
+        },
+        {
+            "Density": 0.5
+        },
+        {
+            "Timestamp": 1622508847.7871706
+        }
+    ],
+    "frame26": [
+        {
+            "Violations": 4
+        },
+        {
+            "Density": 0.46
+        },
+        {
+            "Timestamp": 1622508848.9970098
+        }
+    ],
+    "frame27": [
+        {
+            "Violations": 5
+        },
+        {
+            "Density": 0.52
+        },
+        {
+            "Timestamp": 1622508850.4364526
+        }
+    ],
+    "frame28": [
+        {
+            "Violations": 4
+        },
+        {
+            "Density": 0.38
+        },
+        {
+            "Timestamp": 1622508851.8715475
+        }
+    ],
+    "frame29": [
+        {
+            "Violations": 5
+        },
+        {
+            "Density": 0.55
+        },
+        {
+            "Timestamp": 1622508852.9176226
+        }
+    ],
+    "frame30": [
+        {
+            "Violations": 4
+        },
+        {
+            "Density": 0.42
+        },
+        {
+            "Timestamp": 1622508854.045753
+        }
+    ],
+    "frame31": [
+        {
+            "Violations": 4
+        },
+        {
+            "Density": 0.38
+        },
+        {
+            "Timestamp": 1622508855.0920665
+        }
+    ],
+    "frame32": [
+        {
+            "Violations": 2
+        },
+        {
+            "Density": 0.44
+        },
+        {
+            "Timestamp": 1622508856.1245937
+        }
+    ],
+    "frame33": [
+        {
+            "Violations": 2
+        },
+        {
+            "Density": 0.44
+        },
+        {
+            "Timestamp": 1622508857.1611917
+        }
+    ],
+    "frame34": [
+        {
+            "Violations": 2
+        },
+        {
+            "Density": 0.46
+        },
+        {
+            "Timestamp": 1622508858.2090676
+        }
+    ],
+    "frame35": [
+        {
+            "Violations": 4
+        },
+        {
+            "Density": 0.54
+        },
+        {
+            "Timestamp": 1622508859.2580545
+        }
+    ],
+    "frame36": [
+        {
+            "Violations": 4
+        },
+        {
+            "Density": 0.37
+        },
+        {
+            "Timestamp": 1622508860.4401824
+        }
+    ],
+    "frame37": [
+        {
+            "Violations": 5
+        },
+        {
+            "Density": 0.6
+        },
+        {
+            "Timestamp": 1622508861.5060878
+        }
+    ],
+    "frame38": [
+        {
+            "Violations": 5
+        },
+        {
+            "Density": 0.64
+        },
+        {
+            "Timestamp": 1622508862.548204
+        }
+    ],
+    "frame39": [
+        {
+            "Violations": 5
+        },
+        {
+            "Density": 0.53
+        },
+        {
+            "Timestamp": 1622508863.714339
+        }
+    ],
+    "frame40": [
+        {
+            "Violations": 4
+        },
+        {
+            "Density": 0.22
+        },
+        {
+            "Timestamp": 1622508864.7591243
+        }
+    ],
+    "frame41": [
+        {
+            "Violations": 5
+        },
+        {
+            "Density": 0.27
+        },
+        {
+            "Timestamp": 1622508865.8220363
+        }
+    ],
+    "frame42": [
+        {
+            "Violations": 4
+        },
+        {
+            "Density": 0.29
+        },
+        {
+            "Timestamp": 1622508866.857551
+        }
+    ],
+    "frame43": [
+        {
+            "Violations": 5
+        },
+        {
+            "Density": 0.29
+        },
+        {
+            "Timestamp": 1622508867.9062257
+        }
+    ]
+}
